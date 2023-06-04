@@ -69,14 +69,14 @@ The program will prompt user to input a Table A, and Table B if user requests su
 
 Tables must be nx8 ".csv" extension containing columns where order of columns matters : ["blockTimestamp", "project", "nftTicker", "assetId", "from", "to", "row_Id" "transaction_hash"] where,
 	
-  to               : wallet address
-  from             : wallet address
-  project          : Project Name
-  nftTicker        : NFT Ticker
-  assetId          : Asset Identifier
-  row_id           : transaction identifier
-  blockTimestamp   : "yyyy-MM-dd'T'HH:mm:ss.000'Z'"
-  transaction_hash : address in wallet form
+  - to               : wallet address
+  - from             : wallet address
+  - project          : Project Name
+  - nftTicker        : NFT Ticker
+  - assetId          : Asset Identifier
+  - row_id           : transaction identifier
+  - blockTimestamp   : "yyyy-MM-dd'T'HH:mm:ss.000'Z'"
+  - transaction_hash : address in wallet form
 
 ## Tech Stack
 
