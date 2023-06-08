@@ -1,4 +1,4 @@
-# Nonfungible.com-NBA-Top-Shot-Price-Evaluation
+# Nonfungible.com-Washtrading Detector
 Experimental research using graph theory to detect illegal washtrading of NFT's assets.
 
 **Table of Contents**
